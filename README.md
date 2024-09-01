@@ -15,11 +15,15 @@ Denna första vecka i UX / UI Grunder kommer vi att inleda med att kika på vad 
 ## Resurser
 
 ### Presentationer
-
+* [Kursintro](https://docs.google.com/presentation/d/1yR0gF_wQ03Unxm7qIEIhL3yN-eeYEyRz/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Intro UX / UI](https://docs.google.com/presentation/d/1Ooyuz9l10qyDx1dp53bQCGWGxohqC4Uv/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Usability](https://docs.google.com/presentation/d/1EJlN5MLs7aieBguNitVSzZeH0agK1NRb/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Filmer
+* [Karl Gilis - Why you fail at digital marketing](https://www.youtube.com/watch?v=5smmkVq3osE)
 
 ### Länkar
+* [Myth #29 - people are rational](https://uxmyths.com/post/2607991907/myth-29-people-are-rational)
 * [Balthazar's Menu](https://nymag.com/restaurants/features/62498/)
 * [Design Thinking Process](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process)
 * [Dark / Deceptive Patterns](https://www.deceptive.design/)
