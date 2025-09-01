@@ -20,6 +20,12 @@ Denna första vecka i UX / UI Grunder kommer vi att inleda med att kika på vad 
 * [Usability](https://docs.google.com/presentation/d/1EJlN5MLs7aieBguNitVSzZeH0agK1NRb/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Design Thinking - Empathize & Define](https://docs.google.com/presentation/d/13OArKxoMnn0qEjMgg313gP0M-gZyJG7R/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
+### Inspelningar
+* 01 - [Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EdSAbCIhzHFDr32piX40DUcB7v0ygdiEaOLvwOwd2TWnbw?e=1ER33v)
+* 02 - [UX/UI del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EeBMXE3WgnNAuAqJu6uxizQBA8Ky0XERYMnBmqCSry-WcA?e=57fYt2)
+* 03 - [UX/UI del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EdynmjSAZSRJplSws5TbR6sB4ILAaMbyjTKjJEHvj387ow?e=5JZ3OM)
+* 04 - [UX/UI del 3](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/ETIt7E6p8X9Lj1f7gUD3uHgB40JXASpQKZDEP1gcSFvSVw?e=GPR2i9)
+
 ### Filmer
 * [Karl Gilis - Why you fail at digital marketing](https://www.youtube.com/watch?v=5smmkVq3osE)
 
