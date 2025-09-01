@@ -25,6 +25,7 @@ Denna första vecka i UX / UI Grunder kommer vi att inleda med att kika på vad 
 * 02 - [UX/UI del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EeBMXE3WgnNAuAqJu6uxizQBA8Ky0XERYMnBmqCSry-WcA?e=57fYt2)
 * 03 - [UX/UI del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EdynmjSAZSRJplSws5TbR6sB4ILAaMbyjTKjJEHvj387ow?e=5JZ3OM)
 * 04 - [UX/UI del 3](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/ETIt7E6p8X9Lj1f7gUD3uHgB40JXASpQKZDEP1gcSFvSVw?e=GPR2i9)
+* 05 - [UX/UI del 4](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EYdfp_uJnRdKuY8GJM13FPQBt0E0TyfeS4rO1F7KbxCeRg?e=SCRkta)
 
 ### Filmer
 * [Karl Gilis - Why you fail at digital marketing](https://www.youtube.com/watch?v=5smmkVq3osE)
